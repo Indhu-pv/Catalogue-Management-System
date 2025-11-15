@@ -4,8 +4,8 @@ A React-based topic search and filtering component for TOTLE's Catalogue Managem
 
 ## 🔗 Live Demo & Repository
 
-- **GitHub Repository**: [https://github.com/Indhu-pv/Catalogue-Management-System](https://github.com/Indhu-pv/Catalogue-Management-System)
-- **Video Walkthrough**: [Link to your video walkthrough]
+- **GitHub Repository**: https://github.com/Indhu-pv/Catalogue-Management-System
+- **Video Walkthrough**: https://we.tl/t-UKib9tA2Am
 
 ## ✨ Features
 
